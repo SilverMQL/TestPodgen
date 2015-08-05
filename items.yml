@@ -13,4 +13,9 @@
     Hello world! this is my second episode.
   pubdate: 2015-07-18T20:00:41-07:00
 
-
+- title: My third episode
+  link: lythrum.mp3
+  image: doge.jpg
+  description: >
+    This is the third episode.
+  pubdate: 2015-08-05T21:27:50-07:00
